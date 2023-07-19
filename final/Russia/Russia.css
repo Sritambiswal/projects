@@ -1,0 +1,67 @@
+.college_photo1{
+    float: right;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.college_photo2{
+    float: left;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.heading2{
+    float: right;
+    padding-right:350px;
+}
+.heading1{
+    flaot:left;
+    padding-left:20px;
+
+}
+.text{
+    padding-left: 20px;
+}
+
+span{
+    display: inline-block;
+    margin: 15px 0;
+    color: orange;
+  }
+  h2{
+    font-size: 40px;
+  }
+  /*call and whatsapp*/
+
+               
+.phone{
+    box-shadow: 6px 6px 5px #ccc;
+    border-radius: 50%;
+    float:right;
+  
+
+    
+}
+.whatsapp{
+    box-shadow: 6px 6px 5px #ccc;
+    border-radius: 50%;
+    float:right;
+
+}
+
+.text_whatsapp{
+    color: black;
+ font-size: 18px;
+ float: right;
+ margin-right: 3%;
+}
+.text_call{
+ color: black;
+ font-size: 18px;
+ float: right;
+ 
+}
+.phone:hover{
+    border: 5px double #FFEAEA;
+}
+.whatsapp:hover{
+    border: 5px double #FFEAEA;
+}

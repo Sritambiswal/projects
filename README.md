@@ -1,1 +1,1 @@
-# projects
+# Education Consulting Website
